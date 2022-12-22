@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, Shivam this side</h1>
+<h1 align="center">Namastey! Shivam this side</h1>
 <h3 align="center">Android/ios || Front-End Web Development || Networking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhiivvaam&label=Profile%20views&color=0e75b6&style=flat" alt="shhiivvaam" /> </p>
