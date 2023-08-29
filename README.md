@@ -1,9 +1,6 @@
 <h1 align="center">hello ! Shivam this side 💫✨</h1>
 <h3 align="center">MERN Stack Dev | Android/ios | Data Analytics | Java/Python</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shhiivvaam&label=Profile%20views&color=0e75b6&style=flat" alt="shhiivvaam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shhiivvaam&theme=onestar" alt="shhiivvaam" /></a> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhiivvaam&label=Profile%20views&color=0e75b6&style=flat" alt="shhiivvaam" /> </p> -->
 
 - 📫 Connect : **lif.shivam2394@gmail.com**
 - 👨‍💻 Projects : **https://shhiivvaam.github.io/portfolio/**
