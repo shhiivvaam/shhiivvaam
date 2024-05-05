@@ -3,7 +3,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhiivvaam&label=Profile%20views&color=0e75b6&style=flat" alt="shhiivvaam" /> </p> -->
 
 - 📫 Connect : **lif.shivam2394@gmail.com**
-- 👨‍💻 Projects : **https://shhiivvaam.github.io/portfolio/**
+- 👨‍💻 Projects : **https://shhiivvaam-portfolio.netlify.app/**
 
 <div> <a href="https://twitter.com/shhiivvaam_" target="_blank"><img
             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
