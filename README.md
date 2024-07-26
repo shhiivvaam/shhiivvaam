@@ -1,9 +1,9 @@
-<h1 align="center">hello ! Shivam this side 💫✨</h1>
-<h3 align="center">MERN Stack Dev | Android/ios | Data Analytics | Java/Python</h3>
+<h1 align="center">hey!! Shivam this side🫡</h1>
+<h3 align="center">MERN Stack Dev | Android/ios Dev | Data Analytics | Cloud | Java/Python</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhiivvaam&label=Profile%20views&color=0e75b6&style=flat" alt="shhiivvaam" /> </p> -->
 
-- 📫 Connect : **lif.shivam2394@gmail.com**
-- 👨‍💻 Projects : **https://shhiivvaam-portfolio.netlify.app/**
+- 📫 Connect : **life.shivam2394@gmail.com**
+- 👨‍💻 Portfolio : **https://shhiivvaam-portfolio.netlify.app/**
 
 <div> <a href="https://twitter.com/shhiivvaam_" target="_blank"><img
             src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
@@ -118,7 +118,7 @@
         alt="Tensorflow" width="40" height="40" />
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="right">Stars</h3>
 <!-- <img align="left" height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhiivvaam&layout=compact&theme=onedark"
     alt=shhiivvaam /> -->
