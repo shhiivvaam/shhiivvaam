@@ -119,9 +119,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em"
+<!-- <img align="left" height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhiivvaam&layout=compact&theme=onedark"
-    alt=shhiivvaam />
+    alt=shhiivvaam /> -->
 
 <p>&nbsp;<img align="center" height="180em"
         src="https://github-readme-stats.vercel.app/api?username=shhiivvaam&show_icons=true&locale=en&theme=radical"
