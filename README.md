@@ -217,8 +217,8 @@
             height="180em" />
 </div>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=shhiivvaam&show_icons=true&locale=en&theme=radical" alt="shhiivvaam" />
-<img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shhiivvaam&theme=tokyonight" alt="shhiivvaam" />
+<!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=shhiivvaam&show_icons=true&locale=en&theme=radical" alt="shhiivvaam" />
+<img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shhiivvaam&theme=tokyonight" alt="shhiivvaam" /> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left">⚡Activity Graph:</h2>
