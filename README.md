@@ -6,7 +6,7 @@
 <h3 align="center">Dev</h3>
 
     - 📫 Connect : life.shivam2394@gmail.com
-    - 👨‍💻 Portfolio : https://shhiivvaam.ambaycapital.com
+    - 👨‍💻 Portfolio : shhiivvaam.ambaycapital.com
 
 <div align="center"> 
     <a href="https://twitter.com/shhiivvaam_" target="_blank"><img
